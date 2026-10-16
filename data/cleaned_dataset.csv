@@ -1,0 +1,23 @@
+Unnamed: 0,track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+11158,7H3ojI1BsVy0dEJENqMt1k,Sade,Lovers Rock,By Your Side,70,274933,False,0.653,0.429,11,-10.473,1,0.0297,0.0849,0.00371,0.0693,0.627,146.073,4,british
+11215,1Hv1VTm8zeOeybub15mA2R,Sade,The Best of Sade,Smooth Operator - Single Version,70,258693,False,0.734,0.58,9,-6.619,0,0.0321,0.238,0.0006,0.0298,0.962,119.336,4,british
+11350,65krtHkaYLPr0mEbjL61UP,Sade,The Best of Sade,Kiss of Life,66,251333,False,0.723,0.47,6,-11.302,0,0.028,0.633,0.0373,0.0968,0.783,97.107,4,british
+11353,1oaaSrDJimABpOdCEbw2DJ,Sade,Love Deluxe,No Ordinary Love,67,440466,False,0.629,0.364,11,-12.259,0,0.038,0.467,0.0204,0.0941,0.701,166.266,4,british
+11403,28XDE6yXI6Bp4U3nLSGqzp,Sade,The Ultimate Collection,Smooth Operator - Remastered,63,256146,False,0.688,0.684,9,-5.181,0,0.032,0.0757,0.000832,0.0441,0.96,119.193,4,british
+11419,7pLuEMFougkSHXrPBtNxTR,Sade,Diamond Life,Smooth Operator,56,298893,False,0.794,0.559,9,-6.491,0,0.0319,0.367,0.0107,0.0371,0.963,119.81,4,british
+11588,1j2LuIf7mv15ZVug1Xy5qz,Sade,Diamond Life,Your Love Is King,65,219426,False,0.742,0.42,9,-6.797,1,0.031,0.562,4.12e-05,0.0402,0.594,134.624,3,british
+11652,6KIS5YIZAyeiFNx1aE1OhY,Sade,The Best of Sade,Hang on to Your Love,62,270466,False,0.846,0.703,0,-5.76,1,0.0301,0.147,1.21e-05,0.071,0.964,107.767,4,british
+11654,22QiTJqDn1BIRSh4mkNJ5w,Sade,Love Deluxe,Cherish the Day,60,332133,False,0.68,0.389,8,-13.239,1,0.0545,0.0121,0.0834,0.105,0.68,80.145,4,british
+11819,4tReFKumS5bcFahdXDiM1b,Sade,The Best of Sade,Paradise,62,217466,False,0.738,0.792,1,-7.873,1,0.0378,0.309,0.39,0.0679,0.968,99.817,4,british
+11822,0sKfhhj6hYyJIXnTiZV9vf,Sade,Promise,The Sweetest Taboo,64,277373,False,0.752,0.823,10,-9.455,0,0.0447,0.128,0.0098,0.303,0.962,91.563,4,british
+20009,6ocbgoVGwYJhOv1GgI9NsF,Ariana Grande,"thank u, next",7 rings,84,178626,True,0.778,0.317,1,-10.732,0,0.334,0.592,0.0,0.0881,0.327,140.048,4,dance
+20012,35mvY5S1H3J2QZyna3TFe0,Ariana Grande,Positions,positions,85,172324,True,0.737,0.802,0,-4.771,1,0.0878,0.468,0.0,0.0931,0.682,144.015,4,dance
+20153,6Im9k8u9iIzKMrmV7BWtlF,Ariana Grande,Positions,34+35,81,173710,True,0.83,0.585,0,-6.476,1,0.094,0.237,0.0,0.248,0.485,109.978,4,dance
+20303,3e9HZxeyfWwjeyPAMmWSSQ,Ariana Grande,"thank u, next","thank u, next",82,207320,True,0.717,0.653,1,-5.634,1,0.0658,0.229,0.0,0.101,0.412,106.966,4,dance
+20306,7xoUc6faLbCqZO6fQEYprd,Ariana Grande,My Everything (Deluxe),One Last Time,83,197266,False,0.628,0.593,8,-5.036,1,0.0323,0.093,1.65e-06,0.096,0.104,125.026,4,dance
+20452,5OCJzvD7sykQEKHH7qAC3C,Ariana Grande,Sweetener,God is a woman,80,197546,True,0.602,0.658,1,-5.934,1,0.0558,0.0233,6e-05,0.237,0.268,145.031,4,dance
+20756,76FZM38RC8XaAjJ77CVTNe,Ariana Grande,Dangerous Woman,Into You,76,244453,False,0.623,0.734,9,-5.95,1,0.107,0.0162,1.9e-06,0.145,0.372,107.853,4,dance
+20858,2qT1uLXPVPzGgFOx4jtEuo,Ariana Grande,Sweetener,no tears left to cry,78,205920,False,0.699,0.713,9,-5.507,0,0.0594,0.04,3.11e-06,0.294,0.354,121.993,4,dance
+20915,4kV4N9D1iKVxx1KLvtTpjS,Ariana Grande,"thank u, next","break up with your girlfriend, i'm bored",78,190440,True,0.726,0.554,5,-5.29,0,0.0917,0.0421,0.0,0.106,0.335,169.999,4,dance
+51250,6DCZcSspjsKoFjzjrWoCdn,Drake,Scorpion,God's Plan,84,198973,True,0.754,0.449,7,-9.211,1,0.109,0.0332,8.29e-05,0.552,0.357,77.169,4,hip-hop
+51450,68Dni7IE4VyPkTOH9mRWHr,J. Cole,2014 Forest Hills Drive,No Role Modelz,88,292799,True,0.69,0.521,10,-8.492,0,0.339,0.324,0.0,0.0534,0.494,100.028,4,hip-hop

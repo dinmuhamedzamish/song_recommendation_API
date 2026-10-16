@@ -1,0 +1,6 @@
+Required packages:
+pandas
+scikit-learn
+NumPy
+sqlmodel
+pytest
